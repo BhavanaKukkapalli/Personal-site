@@ -1,2 +1,6 @@
 # Web-Development-Course
-Sample personal profile using HTML: https://bhavanakukkapalli.github.io/Web-Development-Course/
+## Technologies used:
+1. HTML
+
+
+Sample personal profile using HTML: https://bhavanakukkapalli.github.io/Personal-site/
