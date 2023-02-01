@@ -1,0 +1,18 @@
+body{
+    background-color: wheat;
+}
+img{
+    height: 310px;
+    width: 300px;
+    border-radius: 50%;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: cornflowerblue;
+    border-width: 5px;
+    width: 5%;
+}
+h1, h3{
+    color: cornflowerblue;
+}
